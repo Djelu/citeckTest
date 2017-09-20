@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by Djelu on 20.09.2017.
  */
-
 @RestController
 public class SomeController {
     private XmlManager xmlManager;
